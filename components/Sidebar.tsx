@@ -59,7 +59,7 @@ export const Sidebar = forwardRef<HTMLDivElement, { className?: string }>(
         <div className="flex h-full flex-col overflow-y-auto py-5 px-3">
           <div className="mb-6 flex items-center justify-center">
             <Link href="/">
-              <span className="text-2xl font-bold text-white">DeviceHaven</span>
+              <span className="text-2xl font-bold text-white">SPARKLECART</span>
             </Link>
           </div>
           <nav className="flex-1 space-y-1 px-2">

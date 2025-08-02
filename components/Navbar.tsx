@@ -47,7 +47,7 @@ export function Navbar({ onMenuClick }: {
                   </Button>
                   <Link href="/dashboard" className="flex items-center">
                    {/* Logo Image */}
-                    <Image src={logo} alt="DeviceHaven" height={250} width={250} />
+                    <Image src={logo} alt="SPARKLECART" height={250} width={250} />
                   </Link>
                 </div>
               </div>
